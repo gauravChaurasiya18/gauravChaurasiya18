@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chaurasiya</h1>
-<h3 align="center">A passionate frontend developer | competitive programmer  </h3>
+<h3 align="center">A passionate FullStack developer | competitive programmer  </h3>
 <img align ="right" alt "coding" width="400" src ="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravchaurasiya18&label=Profile%20views&color=0e75b6&style=flat" alt="gauravchaurasiya18" /> </p>
 
-- 🌱 I’m currently learning **Data Structure And Algorithms | MYSQL | React Js | Next Js **  
-- 💬 Ask me about Next Js | DSA | SQL | OOPS 
+- 🌱 I’m currently learning **Data Structure And Algorithms | MYSQL | React Js | Node JS **  
+- 💬 Ask me about Node Js | DSA | SQL | OOPS 
 - 📫 How to reach me **gauravcha18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav chaurasiya" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gaurav chaurasiya](https://www.linkedin.com/in/gaurav-chaurasiya-822056266/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav chaurasiya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/knight74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knight_74" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gau_r_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gau_r_av" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_chaurasiya" height="30" width="40" /></a>
