@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/gaurav chaurasiya](https://www.linkedin.com/in/gaurav-chaurasiya-822056266/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav chaurasiya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-chaurasiya-822056266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav chaurasiya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/knight74" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="knight_74" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/gau_r_av" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gau_r_av" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_chaurasiya" height="30" width="40" /></a>
